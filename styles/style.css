@@ -28,7 +28,7 @@ body {
 
 .header__menu{
     display: flex;
-    gap: 80px
+    gap: 80px;
 }
 
 .header__menu__link{
@@ -81,7 +81,7 @@ body {
 }
 
 .presentacion__enlaces__subtitulo{
-    font-family: var(--fuente-krona)
+    font-family: var(--fuente-krona);
     font-size: 24px;
     font-weight: 400;
 }
@@ -104,7 +104,7 @@ body {
 }
 
 .presentacion__enlaces__link:hover{
-    background-color: var(--color-hover)
+    background-color: var(--color-hover);
 }
 
 .footer{
