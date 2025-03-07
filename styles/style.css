@@ -28,7 +28,7 @@ body {
 
 .header__menu{
     display: flex;
-    gap: 80px;
+    gap: 45px;
 }
 
 .header__menu__link{
@@ -139,6 +139,7 @@ body {
 
     .header__menu{
         justify-content: center;
+                
     }
 
     .presentacion{
