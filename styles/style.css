@@ -28,13 +28,13 @@ body {
 
 .header__menu{
     display: flex;
-    gap: 45px;
+    gap: 25px;
 }
 
 .header__menu__link{
     font-family: var(--fuente-montserrat);
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: 1.25rem;
+    font-weight: 700;
     color: var(--color-terciario);
     text-decoration: none;
 }
